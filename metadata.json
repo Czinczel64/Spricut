@@ -1,0 +1,5 @@
+{
+  "name": "Spricut",
+  "description": "Uma ferramenta profissional para recortar e extrair frames de spritesheets automaticamente.",
+  "requestFramePermissions": []
+}
